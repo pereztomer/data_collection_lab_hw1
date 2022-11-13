@@ -34,7 +34,7 @@ GROUP BY TMP.CountryCode
 ORDER BY TMP.CountryCode
 
 
-drop view Legit_cities
+
 
 
 
